@@ -1,0 +1,3 @@
+VARIABLES :
+
+- The "+" and "," operators work differently with a PRINT statement. "+" will simply append the value of the variable with the preceding variable/value with no spaces in between, whereas the "," operator will add a space in between the two joining values.
