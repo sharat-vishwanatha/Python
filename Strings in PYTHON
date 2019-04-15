@@ -1,0 +1,11 @@
+1. The strip() function removes any white spaces from either end of a string. Used as <string_variable>.strip()
+
+2. lower() or upper() can be used to change case of strings. Used similar to strip().
+
+3. replace() is used to replace one or more characters in a string. Example :
+a = "Hello, World!"
+print(a.replace("H", "J"))
+
+4. The split() method splits the string into substrings if it finds instances of the separator:
+a = "Hello, World!"
+print(a.split(",")) # returns ['Hello', ' World!']
